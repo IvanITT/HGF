@@ -1,5 +1,5 @@
 <?php
-
+//
 error_reporting(0);		
 
 include_once('libraries/opentbs/tbs_class.php');
