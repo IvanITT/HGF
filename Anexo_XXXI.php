@@ -1,7 +1,7 @@
 <?php
 
 error_reporting(0);		
-
+//Emmanuel Ramirez
 include_once('libraries/opentbs/tbs_class.php');
 include_once('libraries/opentbs/tbs_plugin_opentbs.php');    
   
