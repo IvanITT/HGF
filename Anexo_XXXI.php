@@ -4,7 +4,7 @@ error_reporting(0);
 //Emmanuel Ramirez
 include_once('libraries/opentbs/tbs_class.php');
 include_once('libraries/opentbs/tbs_plugin_opentbs.php');    
-  
+  //ejemplo
 if (version_compare(PHP_VERSION,'5.1.0')>=0) {
 	if (ini_get('date.timezone')=='') {
 		date_default_timezone_set('UTC');
